@@ -1,0 +1,8 @@
+1. Scrape the national parks website - https://www.nps.gov/ and create a knowledgebase of all the parks listed on the website.
+2. Create an open domain Q and A engine on top of the knowledgebase
+3. Extra bonus - Understanding images on the website and incorporating links to images and related texts in the answer. 
+4. Extra Bonus - If there are numerical data like this - https://www.nps.gov/deva/planyourvisit/hiking.htm develop an algorithm to ensure the generation models don't hullucinate when answering questions like " whats the hardest hike in the park?"
+
+Don't spend a lot of time in building a sophisticated scaper, I haven't looked too deeply into scrapers but something like this could work? https://github.com/BuilderIO/gpt-crawler
+
+This is an open ended question, spend as much or as little time you want. The solution doesn't need to be complete either, we can discuss parts of the problem that you have solved. 
